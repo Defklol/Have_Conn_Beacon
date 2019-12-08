@@ -1,0 +1,5 @@
+以MPU9250專案匯入MPU9250.h路徑為例
+
+預匯入的絕對路徑 : C:\Users\user\Desktop\Nordic SDK\nRF5_SDK_15.3.0_59ac345\components\drivers_ext\mpu6050
+預匯入的相對路徑 : ..\..\..\..\..\..\components\drivers_ext\mpu6050
+專案的路徑   : C:\Users\user\Desktop\Nordic SDK\nRF5_SDK_15.3.0_59ac345\examples\peripheral\MPU9250
